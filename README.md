@@ -1,5 +1,4 @@
-#                                                         Spring cloud Microservices and Angular front-end
-![logoreadme](https://user-images.githubusercontent.com/55364638/206926865-496024be-f97d-44d8-af78-c3fa4c4d2e9f.png)
+#                                                         Controle Spring cloud
 # I. Backend :
   * [1. use case](#1-use-case)
   * [2 Inventory service - get all products](#2-inventory-service---get-all-products)
